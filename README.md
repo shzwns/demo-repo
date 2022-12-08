@@ -14,8 +14,13 @@
 
 1. Clone - Bring repository that is hosted somewhere like Github into a folder on your local machine
 2. add - Track your files and changes in Git
-3. commit - Save your files in Git
+3. commit - Save your files in Git (-m for sending message)
 4. push - Upload Git commits to a remote repo (like Github)
 5. pull - Download changes from remote repo to your local machine, the opposite of push
 
+<--> STEPS <-->
+1. Create SSH Keys by using Git Bash 
+    ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
+
+2. 
 
