@@ -22,5 +22,5 @@
 1. Create SSH Keys by using Git Bash 
     ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
 
-2. 
+2. Pause on Minute 26
 
