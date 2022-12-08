@@ -1,5 +1,21 @@
-# DEMO
+# LEARNING GITHUB BASICS
 
-Some description
+<--> TERMS IN GITHUB <-->
 
-New Description
+1. DIRECTORY - Folder
+2. TERMINAL OR COMMAND LINE - CMD
+3. CLI - Command Line Interface
+4. CD - Change Directory
+5. Code Editor - Place to write Code
+6. REPOSITORY - Project or folder place where project kept
+7. Github - Website where host all the repositories online
+
+<--> GIT COMMANDS <-->
+
+1. Clone - Bring repository that is hosted somewhere like Github into a folder on your local machine
+2. add - Track your files and changes in Git
+3. commit - Save your files in Git
+4. push - Upload Git commits to a remote repo (like Github)
+5. pull - Download changes from remote repo to your local machine, the opposite of push
+
+
